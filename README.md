@@ -16,7 +16,7 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 >
 
     - root
-        > Robo_Pad (React Native codebase)
+        > Robo_Pod (React Native codebase)
             > ...
                 > ...
             > ...
@@ -24,6 +24,8 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
             > app.json
         > app-release.apk (main .apk file)
         > RoboPodArduinoCode.ino (.ino file for robot)
+        > images
+            > ...
 
 &nbsp;
 
