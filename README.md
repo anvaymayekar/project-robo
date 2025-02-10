@@ -15,8 +15,6 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
 ## File structure
 
->
-
     - root
         > Robo_Pod (React Native codebase)
             > ...
@@ -33,13 +31,12 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
 ## Bluetooth Interface Chars
 
->
-    **'F'** -> Forward
-    **'B'** -> Backward
-    **'S'** -> Stop
-    **'R'** -> Right
-    **'L'** -> Left
-    **'A'** -> Autopilot
+- **'F'** -> Forward
+- **'B'** -> Backward
+- **'S'** -> Stop
+- **'R'** -> Right
+- **'L'** -> Left
+- **'A'** -> Autopilot
 
 ---
 
