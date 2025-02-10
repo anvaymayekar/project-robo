@@ -48,19 +48,19 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 ## Dependencies
 
 >
- - @types/react-native-vector-icons -> ^6.4.18
+    - @types/react-native-vector-icons (^6.4.18)
 
- - react -> 18.3.1
+    - react (18.3.1)
 
- - react-native -> 0.77.0
+    - react-native (0.77.0)
 
- - react-native-asset -> ^2.1.1
+    - react-native-asset (^2.1.1)
 
- - react-native-bluetooth-classic -> ^1.73.0-rc.12
+    - react-native-bluetooth-classic (^1.73.0-rc.12)
 
- - react-native-linear-gradient -> ^2.8.3
+      react-native-linear-gradient (^2.8.3)
 
- - react-native-vector-icons -> ^10.2.0
+      react-native-vector-icons (^10.2.0)
 &nbsp;
 
 ---
