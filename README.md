@@ -1,16 +1,19 @@
 # ProjectRobo: Obstacle-avoiding robot with its dedicated Android application.
 
 &nbsp;
-
 A simple Arduino circuit was built using HC-SR04 and some IR sensors with Bluetooth module HC-05 for dynamic control.
 This project has been constructed under the regime of _Fabrication - Lab_ of **F.Y. B.Tech.** students of Shah & Anchor Kutchhi Engineering College, Mumbai - **ECS1 Group VI**.
 &nbsp;
+
 ---
+
 ### Note
 
 > The React Native codebase is only configured for Android.
 > After installing the .apk file in an Android device it is essential to manually grant it the permission of 'Nearby devices' to enable Bluetooth interfacing.
+
 ---
+
 ### File structure
 
 >
@@ -28,12 +31,16 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
             > ...
 
 &nbsp;
+
 ---
+
 ### Tools & Technologies
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
+
 ---
+
 ### Dependencies
 
 > @types/react-native-vector-icons -> ^6.4.18
@@ -50,7 +57,9 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 >
 > react-native-vector-icons -> ^10.2.0
 > &nbsp;
+
 ---
+
 ### Author
 
 > Anvay Mayekar,
