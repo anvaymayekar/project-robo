@@ -6,14 +6,14 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
 ---
 
-### Note
+## Note
 
 > The React Native codebase is only configured for Android.
 > After installing the .apk file in an Android device it is essential to manually grant it the permission of 'Nearby devices' to enable Bluetooth interfacing.
 
 ---
 
-### File structure
+## File structure
 
 >
 
@@ -31,14 +31,21 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
 ---
 
-### Tools & Technologies
+## Bluetooth Interface
+\
+-**'F'** -> Forward()
+
+---
+---
+
+## Tools & Technologies
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
 
 ---
 
-### Dependencies
+## Dependencies
 
 > @types/react-native-vector-icons -> ^6.4.18
 >
@@ -57,7 +64,7 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
 ---
 
-### Author
+## Author
 
 > Anvay Mayekar,
 > B. Tech. in Electronics & Computer Science ~ SAKEC
