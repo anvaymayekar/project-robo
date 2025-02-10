@@ -30,8 +30,6 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
         > images
             > ...
 
-&nbsp;
-
 ---
 
 ### Tools & Technologies
