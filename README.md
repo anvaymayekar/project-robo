@@ -58,10 +58,9 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
     - react-native-bluetooth-classic (^1.73.0-rc.12)
 
-      react-native-linear-gradient (^2.8.3)
+    - react-native-linear-gradient (^2.8.3)
 
-      react-native-vector-icons (^10.2.0)
-&nbsp;
+    - react-native-vector-icons (^10.2.0)
 
 ---
 
