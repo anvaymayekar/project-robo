@@ -1,6 +1,5 @@
 # ProjectRobo: Obstacle-avoiding robot with its dedicated Android application.
 
-&nbsp;
 A simple Arduino circuit was built using HC-SR04 and some IR sensors with Bluetooth module HC-05 for dynamic control.
 This project has been constructed under the regime of _Fabrication - Lab_ of **F.Y. B.Tech.** students of Shah & Anchor Kutchhi Engineering College, Mumbai - **ECS1 Group VI**.
 &nbsp;
