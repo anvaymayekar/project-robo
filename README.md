@@ -35,7 +35,7 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 \
 -**'F'** -> Forward()
 
----
+
 ---
 
 ## Tools & Technologies
@@ -47,6 +47,7 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
 ## Dependencies
 
+>
 > @types/react-native-vector-icons -> ^6.4.18
 >
 > react -> 18.3.1
