@@ -38,11 +38,9 @@ const Details = (): React.JSX.Element => {
           Group - VI
         </Label>
       </View>
-      <Section name="Atharva Mane" roll="26" />
-      <Section name="Jeel Mashru" roll="27" />
+
       <Section name="Anvay Mayekar" roll="28" />
-      <Section name="Aryan Meshram" roll="29" />
-      <Section name="Ratnadeepika Mosa" roll="30" />
+   
     </View>
   );
 };
