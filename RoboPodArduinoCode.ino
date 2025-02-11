@@ -1,5 +1,5 @@
 
-// FYECS1 - GROUP VI
+// author: @anvaymayekar
 
 #include <SoftwareSerial.h>
 #include <NewPing.h>
