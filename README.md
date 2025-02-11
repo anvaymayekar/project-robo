@@ -9,7 +9,7 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 ## Note
 
 > The React Native codebase is only configured for Android.
-> After installing the .apk file in an Android device it is essential to manually grant it the permission of 'Nearby devices' to enable Bluetooth interfacing.
+> After installing the *.apk* file in an Android device it is essential to manually grant it the permission of **'Nearby devices'** to enable Bluetooth interfacing.
 
 ---
 
