@@ -47,6 +47,38 @@ This project has been constructed under the regime of _Fabrication - Lab_ of **F
 
 ---
 
+## Electronics
+
+`1. Arduino Uno (ATmega 328P) Board`
+
+`2. L298N DC Motor Driver`
+
+`3. HC-05 Bluetooth Transceiver Module`
+
+`4. HC-SR04 Ultrasonic Sensor Module`
+
+`5. LM393 IR Sensor (2 pcs)`
+
+`6. 12 V | 1.2 A NiMH Battery with BMS`
+
+`7. 200 RPM | 12 V 6mm DC Geared Motor (2 pcs)`
+
+`8. DC Socket & Jack Connector`
+
+`9. Switch / Toggle`
+
+`10. Heavy Metal Chasis`
+
+`11. GE White Tyre (7cm x 2cm) with a hole diameter of 6.1mm (2 pcs)`
+
+`12. HC-SR04 Sensor Bracket`
+
+`13. Caster Wheel`
+
+`14. USB Type B Cable, jumper wires, nuts, bolts, screws & spacers`
+
+---
+
 ## Dependencies
 
     - @types/react-native-vector-icons (^6.4.18)
