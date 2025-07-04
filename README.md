@@ -81,15 +81,17 @@ A smart and interactive robot built using **Arduino Uno**, **HC-SR04**, **IR sen
 - react-native-linear-gradient (^2.8.3)
 - react-native-vector-icons (^10.2.0)
 ```
+
 ---
+
 
 ## 👨‍💻 Author
 
 > **Anvay Mayekar**
 > 🎓 B.Tech in Electronics & Computer Science — SAKEC
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=GitHub\&logoColor=white)](https://www.github.com/anvaymayekar)
+>
+>[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=GitHub\&logoColor=white)](https://www.github.com/anvaymayekar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge\&logo=LinkedIn\&logoColor=white)](https://in.linkedin.com/in/anvaymayekar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://www.instagram.com/anvaymayekar/)
 
-```
+---
